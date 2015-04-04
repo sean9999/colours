@@ -2,8 +2,4 @@
 
 i am some colours
 
-ok, dude?
-
-ya ya
-
-joob joob!
+i am an apache configuration that hopefully makes everything awesome
